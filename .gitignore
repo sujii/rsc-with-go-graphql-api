@@ -28,3 +28,5 @@ general.log
 tmp/
 __debug_bin
 *.log
+
+node_modules

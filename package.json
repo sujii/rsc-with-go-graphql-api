@@ -14,5 +14,6 @@
   },
   "publishConfig": {
     "sujii:registry": "https://npm.pkg.github.com"
-  }
+  },
+  "private": true
 }

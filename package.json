@@ -1,0 +1,19 @@
+{
+  "name": "@sujii/go-graphql-jwt-api",
+  "version": "1.0.0",
+  "description": "fork of @WebEngrChild/go-graphql-jwt-api",
+  "author": "github.com/WebEngrChild",
+  "license": "MIT",
+  "main": "Makefile",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujii/go-graphql-jwt-api.git"
+  },
+  "publishConfig": {
+    "sujii:registry": "https://npm.pkg.github.com"
+  },
+  "private": true
+}
